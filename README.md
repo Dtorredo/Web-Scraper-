@@ -47,5 +47,8 @@ Express
 Axios
 Cheerio
 
+<img width="946" alt="Screenshot 2025-04-17 at 23 59 46" src="https://github.com/user-attachments/assets/c48cb913-f5a4-43a7-86a3-9ce090017bcf" />
+
+
 Made with ❤️ and JavaScript
 
