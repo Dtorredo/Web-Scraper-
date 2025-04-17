@@ -1,2 +1,2 @@
-# Web-Scraper-
-First time trying creation of a web scraper
+# Web-Scraper:)
+Creating a web scraper using node, js and express and some two packages(axios and cheerio)
